@@ -31,8 +31,8 @@
 ---
 
 ## 🔗 Find Me Online
+- [LinkedIn](linkedin.com/in/tiennc2310)
 - [LeetCode](leetcode.com/u/NguyenTien7/)
-- [Linkedin](linkedin.com/in/tiennc2310)
 
 ---
 
