@@ -33,7 +33,7 @@
 ## 🔗 Find Me Online
 - [LinkedIn](linkedin.com/in/tiennc2310)
 - [LeetCode](leetcode.com/u/NguyenTien7/)
-
+- Contact me via Gmail: viettien23102006@gmail.com
 ---
 
 ## 📢 Bio
