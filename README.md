@@ -13,6 +13,7 @@
 ---
 
 ## 🏆 Achievements
+- **13th Place:** ICPC Mid-Atlantic Region 2025 (Division 1)
 - **7th Place:** ICPC Mid-Atlantic Region 2024
 
 ---
