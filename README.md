@@ -16,10 +16,18 @@
 - **13th Place:** ICPC Mid-Atlantic Region 2025 (Division 1)
 - **7th Place:** ICPC Mid-Atlantic Region 2024
 
+- **My LeetCode Status:**
+
+<p align="center">
+  <img src=".github/scripts/leetcode_stats.svg" alt="LeetCode Contest Rating" width="400" />
+</p>
+
 ---
 
 ## 🌱 Currently Working On
-- **Argumentation Research Project**
+- **Argumentation Research**
+- **Compactness Research**
+- **Automation Project**
 
 ---
 
