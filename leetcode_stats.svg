@@ -27,11 +27,11 @@
 
   <!-- Right col: Problems solved -->
   <text x="270" y="35" class="header">PROBLEMS SOLVED</text>
-  <text x="270" y="80" class="solved-num">354</text>
+  <text x="270" y="80" class="solved-num">356</text>
   
   <!-- Breakdown (Easy/Med/Hard) -->
   <text x="270" y="105" font-family="'Segoe UI', Arial, sans-serif" font-size="12" fill="#dfe6e9">
-    <tspan fill="#00b8a3" font-weight="bold">Easy:</tspan> 105
+    <tspan fill="#00b8a3" font-weight="bold">Easy:</tspan> 107
     <tspan fill="#ffc01e" font-weight="bold" dx="15">Med:</tspan> 193
     <tspan fill="#ef4743" font-weight="bold" dx="15">Hard:</tspan> 56
   </text>
