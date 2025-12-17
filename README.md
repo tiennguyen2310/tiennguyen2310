@@ -27,7 +27,7 @@
 ## 🌱 Currently Working On
 - **Argumentation Research**
 - **Compactness Research**
-- **Automation Project**
+- **Autonomous Robot Project**
 
 ---
 
