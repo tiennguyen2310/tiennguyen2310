@@ -19,7 +19,7 @@
 - **My LeetCode Status:**
 
 <p align="center">
-  <img src=".github/scripts/leetcode_stats.svg" alt="LeetCode Contest Rating" width="400" />
+  <img src="leetcode_stats.svg" alt="LeetCode Contest Rating" width="400" />
 </p>
 
 ---
@@ -27,7 +27,7 @@
 ## 🌱 Currently Working On
 - **Argumentation Research**
 - **Compactness Research**
-- **Automation Project**
+- **Autonomous Robot Project**
 
 ---
 
