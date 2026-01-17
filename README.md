@@ -46,7 +46,7 @@
 ---
 
 ## 📢 Bio
-I am an enthusiastic undergraduate eager for opportunities to join and contribute to impactful projects. I love learning new things and collaborating with others to solve challenging problems!
+I am an enthusiastic undergraduate student eager for opportunities to join and contribute to impactful projects. I love learning new things and collaborating with others to solve challenging problems!
 
 ---
 
