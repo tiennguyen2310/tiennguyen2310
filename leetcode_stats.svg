@@ -22,17 +22,17 @@
   <!-- Left col: Rating -->
   <text x="30" y="35" class="header">CONTEST RATING</text>
   <text x="30" y="80" class="stat-num">2328</text>
-  <text x="30" y="105" class="sub-text">Global Rank: 3560</text>
-  <text x="30" y="120" class="sub-text">Top 0.47%</text>
+  <text x="30" y="105" class="sub-text">Global Rank: 3562</text>
+  <text x="30" y="120" class="sub-text">Top 0.46%</text>
 
   <!-- Right col: Problems solved -->
   <text x="270" y="35" class="header">PROBLEMS SOLVED</text>
-  <text x="270" y="80" class="solved-num">397</text>
+  <text x="270" y="80" class="solved-num">403</text>
   
   <!-- Breakdown (Easy/Med/Hard) -->
   <text x="270" y="105" font-family="'Segoe UI', Arial, sans-serif" font-size="12" fill="#dfe6e9">
-    <tspan fill="#00b8a3" font-weight="bold">Easy:</tspan> 122
-    <tspan fill="#ffc01e" font-weight="bold" dx="15">Med:</tspan> 210
-    <tspan fill="#ef4743" font-weight="bold" dx="15">Hard:</tspan> 65
+    <tspan fill="#00b8a3" font-weight="bold">Easy:</tspan> 126
+    <tspan fill="#ffc01e" font-weight="bold" dx="15">Med:</tspan> 211
+    <tspan fill="#ef4743" font-weight="bold" dx="15">Hard:</tspan> 66
   </text>
 </svg>
