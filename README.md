@@ -28,6 +28,7 @@
 - **Argumentation Research**
 - **Compactness Research**
 - **Autonomous Robot Project**
+- **Efficient ChatBot/Language Model**
 
 ---
 
